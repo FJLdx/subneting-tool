@@ -29,11 +29,11 @@ Broadcast: 192.168.1.255
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/netinfo.git
+git clone https://github.com/FJLdx/subneting-tool.git
 ```
 2. Navigate to the directory:
 ```bash
-cd netinfo
+cd subneting-tool
 ```
 3. Make the script executable:
 ```bash
