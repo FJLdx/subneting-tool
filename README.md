@@ -49,3 +49,6 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the MIT License. See the LICENSE file for details.
 ---
 Created as part of ethical hacking studies.
+=======
+# subneting-tool
+A simple Bash tool for calculating subnet information (network mask, total hosts, network ID, and broadcast address) given an IP and CIDR.
